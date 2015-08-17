@@ -1,0 +1,125 @@
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\bin\Debug\Assets\menu.png
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\bin\Debug\Themes\Generic.xbf
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\bin\Debug\SlideView.Library.xr.xml
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\bin\Debug\SlideView.Library.dll
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\bin\Debug\SlideView.Library.pdb
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\bin\Debug\SlideView.Library.pri
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\obj\Debug\Themes\Generic.g.i.cs
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\obj\Debug\Themes\Generic.g.cs
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\obj\Debug\Themes\Generic.xaml
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\obj\Debug\Themes\Generic.xbf
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\obj\Debug\SlideView.Library.dll
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\obj\Debug\SlideView.Library.pdb
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\obj\Debug\priconfig.xml
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\obj\Debug\priconfig.xml.intermediate
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\obj\Debug\layout.resfiles
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\obj\Debug\layout.resfiles.intermediate
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\obj\Debug\resources.resfiles
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\obj\Debug\resources.resfiles.intermediate
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\obj\Debug\pri.resfiles
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\obj\Debug\pri.resfiles.intermediate
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\obj\Debug\qualifiers.txt
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Javier\Desktop\SlidingPanel\SlideView.Library.WP81\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\obj\Debug\Themes\Generic.g.i.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\obj\Debug\Themes\Generic.g.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\obj\Debug\Themes\Generic.xaml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\obj\Debug\Themes\Generic.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\obj\Debug\SlideView.Library.dll
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\obj\Debug\SlideView.Library.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\bin\Debug\Assets\menu.png
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\bin\Debug\Themes\Generic.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\bin\Debug\SlideView.Library.xr.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\bin\Debug\SlideView.Library.dll
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\bin\Debug\SlideView.Library.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\bin\Debug\SlideView.Library.pri
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\obj\Debug\priconfig.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\obj\Debug\priconfig.xml.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\obj\Debug\layout.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\obj\Debug\layout.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\obj\Debug\resources.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\obj\Debug\resources.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\obj\Debug\pri.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\obj\Debug\pri.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\obj\Debug\qualifiers.txt
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView\SlideView.Library.WP81\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\bin\Debug\Assets\menu.png
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\bin\Debug\Themes\Generic.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\bin\Debug\SlideView.Library.xr.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\bin\Debug\SlideView.Library.dll
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\bin\Debug\SlideView.Library.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\bin\Debug\SlideView.Library.pri
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\Themes\Generic.g.i.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\Themes\Generic.g.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\Themes\Generic.xaml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\Themes\Generic.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\SlideView.Library.dll
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\SlideView.Library.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\priconfig.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\priconfig.xml.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\layout.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\layout.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\resources.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\resources.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\pri.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\pri.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\qualifiers.txt
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\bin\Debug\Assets\menu.png
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\bin\Debug\Themes\Generic.xbf
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\bin\Debug\SlideView.Library.xr.xml
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\bin\Debug\SlideView.Library.dll
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\bin\Debug\SlideView.Library.pdb
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\bin\Debug\SlideView.Library.pri
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\Themes\Generic.g.i.cs
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\Themes\Generic.g.cs
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\Themes\Generic.xaml
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\Themes\Generic.xbf
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\XamlSaveStateFile.xml
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\SlideView.Library.dll
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\SlideView.Library.pdb
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\priconfig.xml
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\priconfig.xml.intermediate
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\layout.resfiles
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\layout.resfiles.intermediate
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\resources.resfiles
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\resources.resfiles.intermediate
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\pri.resfiles
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\pri.resfiles.intermediate
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\qualifiers.txt
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\qualifiers.txt.intermediate
+C:\Users\admin\Downloads\Ejemplo SlideView Control\Ejemplo SlideView Control\SlideView.Library.WP81\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\bin\Debug\Assets\menu.png
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\bin\Debug\Themes\Generic.xbf
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\bin\Debug\SlideView.Library.xr.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\bin\Debug\SlideView.Library.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\bin\Debug\SlideView.Library.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\bin\Debug\SlideView.Library.pri
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\Themes\Generic.g.i.cs
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\Themes\Generic.g.cs
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\Themes\Generic.xaml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\Themes\Generic.xbf
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\XamlSaveStateFile.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\SlideView.Library.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\SlideView.Library.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\priconfig.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\priconfig.xml.intermediate
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\layout.resfiles
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\layout.resfiles.intermediate
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\resources.resfiles
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\resources.resfiles.intermediate
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\pri.resfiles
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\pri.resfiles.intermediate
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\qualifiers.txt
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\qualifiers.txt.intermediate
+C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\MultipleQualifiersPerDimensionFound.txt
