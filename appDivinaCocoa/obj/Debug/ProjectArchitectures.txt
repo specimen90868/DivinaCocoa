@@ -1,2 +1,2 @@
-C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\appDivinaCocoa.csproj;neutral
-C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\SlideView.Library.WP81.csproj;neutral
+C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\appDivinaCocoa.csproj;neutral
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\SlideView.Library.WP81.csproj;neutral

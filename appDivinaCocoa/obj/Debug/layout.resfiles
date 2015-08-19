@@ -3,6 +3,8 @@ Assets\llamame.png
 Assets\localizame.png
 Assets\Logo.scale-240.png
 Assets\marcador.png
+Assets\Menu.png
+Assets\Menu2.jpg
 Assets\Postre1.jpg
 Assets\Postre2.jpg
 Assets\Postre3.jpg
@@ -17,3 +19,7 @@ appDivinaCocoa.xr.xml
 Galeria.xbf
 Localizame.xbf
 MainPage.xbf
+Menu.xbf
+Menu2.xbf
+Menu3.xbf
+Menu4.xbf

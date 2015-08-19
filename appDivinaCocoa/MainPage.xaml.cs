@@ -76,5 +76,11 @@ namespace appDivinaCocoa
             Frame a = Window.Current.Content as Frame;
             a.Navigate(typeof(Galeria), a);
         }
+
+        private void lblMenu_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+            Frame a = Window.Current.Content as Frame;
+            a.Navigate(typeof(Menu), a);
+        }
     }
 }

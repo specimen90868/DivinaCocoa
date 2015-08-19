@@ -7,94 +7,118 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>7091760f-1d2c-4f9b-a5a6-c948b849b6ba</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\bin\Debug\appDivinaCocoa.exe">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\bin\Debug\appDivinaCocoa.exe">
       <PackagePath>appDivinaCocoa.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\packages\SlideView.1.4.2\lib\wpa81\SlideView.Library.dll">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\packages\Facebook.7.0.6\lib\portable-win81+wpa81\Facebook.dll">
+      <PackagePath>Facebook.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\packages\Newtonsoft.Json.7.0.1\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\packages\SlideView.1.4.2\lib\wpa81\SlideView.Library.dll">
       <PackagePath>SlideView.Library.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\Assets\Galeria.png">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\Galeria.png">
       <PackagePath>Assets\Galeria.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\Assets\llamame.png">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\llamame.png">
       <PackagePath>Assets\llamame.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\Assets\localizame.png">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\localizame.png">
       <PackagePath>Assets\localizame.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\Assets\Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\Assets\marcador.png">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\marcador.png">
       <PackagePath>Assets\marcador.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\Assets\SmallLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\Menu.png">
+      <PackagePath>Assets\Menu.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\SmallLogo.scale-240.png">
       <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\Assets\SplashScreen.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\SplashScreen.scale-240.png">
       <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\Assets\Square71x71Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\Square71x71Logo.scale-240.png">
       <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\Assets\StoreLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\StoreLogo.scale-240.png">
       <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\Assets\WideLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\WideLogo.scale-240.png">
       <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\slideview.library\assets\menu.png">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\slideview.library\assets\menu.png">
       <PackagePath>SlideView.Library\Assets\menu.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\Assets\Postre1.jpg">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\Menu2.jpg">
+      <PackagePath>Assets\Menu2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\Postre1.jpg">
       <PackagePath>Assets\Postre1.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\Assets\Postre2.jpg">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\Postre2.jpg">
       <PackagePath>Assets\Postre2.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\Assets\Postre3.jpg">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\Postre3.jpg">
       <PackagePath>Assets\Postre3.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\Assets\shutterstock_299699753.jpg">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\shutterstock_299699753.jpg">
       <PackagePath>Assets\shutterstock_299699753.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\bin\Debug\Galeria.xbf">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\bin\Debug\Galeria.xbf">
       <PackagePath>Galeria.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\bin\Debug\Localizame.xbf">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\bin\Debug\Localizame.xbf">
       <PackagePath>Localizame.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\bin\Debug\Themes\Generic.xbf">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\bin\Debug\Menu.xbf">
+      <PackagePath>Menu.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\bin\Debug\Menu2.xbf">
+      <PackagePath>Menu2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\bin\Debug\Menu3.xbf">
+      <PackagePath>Menu3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\bin\Debug\Menu4.xbf">
+      <PackagePath>Menu4.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\bin\Debug\Themes\Generic.xbf">
       <PackagePath>SlideView.Library\Themes\Generic.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\bin\Debug\appDivinaCocoa.xr.xml">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\bin\Debug\appDivinaCocoa.xr.xml">
       <PackagePath>appDivinaCocoa.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\bin\Debug\SlideView.Library.xr.xml">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\bin\Debug\SlideView.Library.xr.xml">
       <PackagePath>SlideView.Library\SlideView.Library.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admin\documents\visual studio 2013\Projects\appDivinaCocoa\appDivinaCocoa\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

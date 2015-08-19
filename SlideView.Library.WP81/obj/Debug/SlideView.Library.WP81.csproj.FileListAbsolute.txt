@@ -123,3 +123,28 @@ C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Li
 C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\qualifiers.txt
 C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\qualifiers.txt.intermediate
 C:\Users\admin\Documents\Visual Studio 2013\Projects\appDivinaCocoa\SlideView.Library.WP81\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\bin\Debug\Assets\menu.png
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\bin\Debug\Themes\Generic.xbf
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\bin\Debug\SlideView.Library.xr.xml
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\bin\Debug\SlideView.Library.dll
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\bin\Debug\SlideView.Library.pdb
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\bin\Debug\SlideView.Library.pri
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\obj\Debug\Themes\Generic.g.i.cs
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\obj\Debug\Themes\Generic.g.cs
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\obj\Debug\Themes\Generic.xaml
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\obj\Debug\Themes\Generic.xbf
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\obj\Debug\XamlSaveStateFile.xml
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\obj\Debug\SlideView.Library.dll
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\obj\Debug\SlideView.Library.pdb
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\obj\Debug\priconfig.xml
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\obj\Debug\priconfig.xml.intermediate
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\obj\Debug\layout.resfiles
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\obj\Debug\layout.resfiles.intermediate
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\obj\Debug\resources.resfiles
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\obj\Debug\resources.resfiles.intermediate
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\obj\Debug\pri.resfiles
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\obj\Debug\pri.resfiles.intermediate
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\obj\Debug\qualifiers.txt
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\obj\Debug\qualifiers.txt.intermediate
+C:\Users\admin\Documents\GitHub\DivinaCocoa\SlideView.Library.WP81\obj\Debug\MultipleQualifiersPerDimensionFound.txt

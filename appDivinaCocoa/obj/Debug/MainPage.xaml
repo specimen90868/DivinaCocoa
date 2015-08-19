@@ -43,6 +43,15 @@
                 <TextBlock x:ConnectionId='3' x:Name="lblGaleria" Margin="105,188,42,423" Text="Galeria"
                            FontSize="24"                           />
 
+                <Ellipse x:Name="ImagenMenu4" Margin="24,238,286,362" Height="40" Width="40">
+                    <Ellipse.Fill>
+                        <ImageBrush ImageSource="Assets/Menu2.jpg" Stretch="Fill" ></ImageBrush>
+                    </Ellipse.Fill>
+                </Ellipse>
+
+                <TextBlock x:ConnectionId='4' x:Name="lblMenu" Margin="105,244,42,367" Text="Menu"
+                           FontSize="24"                        />
+
             </Grid>
 
             <Grid>

@@ -4,5 +4,72 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:appDivinaCocoa">
 
+    <Application.Resources>
+        <ResourceDictionary>
+            <DataTemplate x:Key="chocolatemesa">
+                <Grid Width="400" Height="50">
+                    <TextBlock Margin="5,5,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
+                               FontWeight="Light" Text="{Binding title}"></TextBlock>
+                    <TextBlock Margin="5,25,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
+                               FontWeight="Light" Text="{Binding description}"></TextBlock>
+                </Grid>
+            </DataTemplate>
+
+            <DataTemplate x:Key="chocolateblanco">
+                <Grid Width="400" Height="50">
+                    <TextBlock Margin="5,5,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
+                               FontWeight="Light" Text="{Binding title}"></TextBlock>
+                    <TextBlock Margin="5,25,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
+                               FontWeight="Light" Text="{Binding description}"></TextBlock>
+                </Grid>
+            </DataTemplate>
+
+            <DataTemplate x:Key="cafe">
+                <Grid Width="400" Height="50">
+                    <TextBlock Margin="5,5,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
+                               FontWeight="Light" Text="{Binding title}"></TextBlock>
+                    <TextBlock Margin="5,25,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
+                               FontWeight="Light" Text="{Binding description}"></TextBlock>
+                </Grid>
+            </DataTemplate>
+
+            <DataTemplate x:Key="otrasbebidas">
+                <Grid Width="400" Height="50">
+                    <TextBlock Margin="5,5,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
+                               FontWeight="Light" Text="{Binding title}"></TextBlock>
+                    <TextBlock Margin="5,25,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
+                               FontWeight="Light" Text="{Binding description}"></TextBlock>
+                </Grid>
+            </DataTemplate>
+
+            <DataTemplate x:Key="paradesayunar">
+                <Grid Width="400" Height="50">
+                    <TextBlock Margin="5,5,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
+                               FontWeight="Light" Text="{Binding title}"></TextBlock>
+                    <TextBlock Margin="5,25,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
+                               FontWeight="Light" Text="{Binding description}"></TextBlock>
+                </Grid>
+            </DataTemplate>
+
+            <DataTemplate x:Key="antojosdulces">
+                <Grid Width="400" Height="50">
+                    <TextBlock Margin="5,5,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
+                               FontWeight="Light" Text="{Binding title}"></TextBlock>
+                    <TextBlock Margin="5,25,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
+                               FontWeight="Light" Text="{Binding description}"></TextBlock>
+                </Grid>
+            </DataTemplate>
+
+            <DataTemplate x:Key="antojossalados">
+                <Grid Width="400" Height="50">
+                    <TextBlock Margin="5,5,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
+                               FontWeight="Light" Text="{Binding title}"></TextBlock>
+                    <TextBlock Margin="5,25,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
+                               FontWeight="Light" Text="{Binding description}"></TextBlock>
+                </Grid>
+            </DataTemplate>
+        </ResourceDictionary>
+    </Application.Resources>
+
 </Application>
 

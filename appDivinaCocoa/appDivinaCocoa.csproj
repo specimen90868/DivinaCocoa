@@ -82,6 +82,8 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Comun.cs" />
+    <Compile Include="Datos.cs" />
     <Compile Include="Galeria.xaml.cs">
       <DependentUpon>Galeria.xaml</DependentUpon>
     </Compile>
@@ -90,6 +92,18 @@
     </Compile>
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.xaml.cs">
+      <DependentUpon>Menu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Menu2.xaml.cs">
+      <DependentUpon>Menu2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Menu3.xaml.cs">
+      <DependentUpon>Menu3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Menu4.xaml.cs">
+      <DependentUpon>Menu4.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -104,6 +118,8 @@
     <Content Include="Assets\localizame.png" />
     <Content Include="Assets\Logo.scale-240.png" />
     <Content Include="Assets\marcador.png" />
+    <Content Include="Assets\Menu.png" />
+    <Content Include="Assets\Menu2.jpg" />
     <Content Include="Assets\Postre1.jpg" />
     <Content Include="Assets\Postre2.jpg" />
     <Content Include="Assets\Postre3.jpg" />
@@ -131,10 +147,29 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Menu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Menu2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Menu3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Menu4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Facebook">
       <HintPath>..\packages\Facebook.7.0.6\lib\portable-win81+wpa81\Facebook.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="SlideView.Library">
       <HintPath>..\packages\SlideView.1.4.2\lib\wpa81\SlideView.Library.dll</HintPath>
@@ -149,6 +184,7 @@
       <Name>SlideView.Library.WP81</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
     <VisualStudioVersion>12.0</VisualStudioVersion>
   </PropertyGroup>
