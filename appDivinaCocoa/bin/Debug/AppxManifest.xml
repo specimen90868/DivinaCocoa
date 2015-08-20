@@ -23,9 +23,14 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="appDivinaCocoa.exe" EntryPoint="appDivinaCocoa.App">
-      <m3:VisualElements DisplayName="appDivinaCocoa" Square150x150Logo="Assets\Logo.png" Square44x44Logo="Assets\SmallLogo.png" Description="appDivinaCocoa" ForegroundText="light" BackgroundColor="transparent">
-        <m3:DefaultTile Wide310x150Logo="Assets\WideLogo.png" Square71x71Logo="Assets\Square71x71Logo.png"></m3:DefaultTile>
-        <m3:SplashScreen Image="Assets\SplashScreen.png" />
+      <m3:VisualElements DisplayName="Divina Cocoa" Square150x150Logo="Assets\logo-mobiles-150x150.png" Square44x44Logo="Assets\SmallLogo.png" Description="appDivinaCocoa" ForegroundText="light" BackgroundColor="#98004B">
+        <m3:LockScreen Notification="badgeAndTileText" BadgeLogo="Assets\logo-mobiles-58x58.png" />
+        <m3:DefaultTile Wide310x150Logo="Assets\WideLogo.png" Square71x71Logo="Assets\Square71x71Logo.png">
+          <m3:ShowNameOnTiles>
+            <m3:ShowOn Tile="square150x150Logo" />
+          </m3:ShowNameOnTiles>
+        </m3:DefaultTile>
+        <m3:SplashScreen Image="Assets\logo-mobil-480x800.png" BackgroundColor="#98004B" />
       </m3:VisualElements>
     </Application>
   </Applications>

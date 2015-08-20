@@ -37,9 +37,32 @@
     <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\localizame.png">
       <PackagePath>Assets\localizame.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\logo-mobil-480x800.png">
+      <PackagePath>Assets\logo-mobil-480x800.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\logo-mobiles-106x106.png">
+      <PackagePath>Assets\logo-mobiles-106x106.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\logo-mobiles-150x150.png">
+      <PackagePath>Assets\logo-mobiles-150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\logo-mobiles-170x170.png">
+      <PackagePath>Assets\logo-mobiles-170x170.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\logo-mobiles-58x58.scale-240.png">
+      <PackagePath>Assets\logo-mobiles-58x58.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\logo-mobiles-71x71.png">
+      <PackagePath>Assets\logo-mobiles-71x71.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\marcador.png">
       <PackagePath>Assets\marcador.png</PackagePath>
@@ -53,6 +76,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\SplashScreen.scale-240.png">
       <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\Square71x71Logo.scale-240.png">
@@ -69,6 +95,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\slideview.library\assets\menu.png">
       <PackagePath>SlideView.Library\Assets\menu.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\logo-mobiles-480.jpg">
+      <PackagePath>Assets\logo-mobiles-480.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\logo-mobiles.jpg">
+      <PackagePath>Assets\logo-mobiles.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\Menu2.jpg">
       <PackagePath>Assets\Menu2.jpg</PackagePath>
