@@ -68,6 +68,12 @@
                                FontWeight="Light" Foreground="#FF533A2A" Text="{Binding description}"></TextBlock>
                 </Grid>
             </DataTemplate>
+            
+            <DataTemplate x:Key="galeria">
+                <Grid Width="200" Height="200" Margin="0,0,0,0">
+                    <Image Margin="0,0,0,0" Width="220" Height="220" Source="{Binding url}"></Image>
+                </Grid>
+            </DataTemplate>
         </ResourceDictionary>
     </Application.Resources>
 

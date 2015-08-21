@@ -10,7 +10,7 @@
 
     <Grid>
         <Library:SlideView SelectedIndex="1">
-            <Grid Background="#FF1E1E1E" Width="350">
+            <Grid Background="#FFF" Width="350">
                 <TextBlock x:Name="Titulo" Text="Divina Cocoa"
                            FontSize="24"
                            Margin="10,5,0,0"
@@ -18,39 +18,39 @@
 
                 <Ellipse x:Name="ImagenMenu1" Margin="22,67,288,533" Height="40" Width="40">
                     <Ellipse.Fill>
-                        <ImageBrush ImageSource="Assets/localizame.png" Stretch="Fill" ></ImageBrush>
+                        <ImageBrush ImageSource="Assets/chocolate_blanco.jpg" Stretch="Fill" ></ImageBrush>
                     </Ellipse.Fill>
                 </Ellipse>
 
                 <TextBlock x:Name="lblLocalizame" Margin="105,74,42,537" Text="Localizame"
-                           FontSize="24" Tapped="lblLocalizame_Tapped"/>
+                           FontSize="24" Foreground="#533a2a" Tapped="lblLocalizame_Tapped"/>
 
                 <Ellipse x:Name="ImagenMenu2" Margin="24,124,286,476" Height="40" Width="40">
                     <Ellipse.Fill>
-                        <ImageBrush ImageSource="Assets/llamame.png" Stretch="Fill" ></ImageBrush>
+                        <ImageBrush ImageSource="Assets/chocolatedemesa.jpg" Stretch="Fill" ></ImageBrush>
                     </Ellipse.Fill>
                 </Ellipse>
 
                 <TextBlock x:Name="lblLlamame" Margin="105,131,42,480" Text="Llamame"
-                           FontSize="24" Tapped="lblLlamame_Tapped"/>
+                           FontSize="24" Foreground="#533a2a" Tapped="lblLlamame_Tapped"/>
 
                 <Ellipse x:Name="ImagenMenu3" Margin="24,181,286,419" Height="40" Width="40">
                     <Ellipse.Fill>
-                        <ImageBrush ImageSource="Assets/Galeria.png" Stretch="Fill" ></ImageBrush>
+                        <ImageBrush ImageSource="Assets/cubiertoschocolate.jpg" Stretch="Fill" ></ImageBrush>
                     </Ellipse.Fill>
                 </Ellipse>
 
                 <TextBlock x:Name="lblGaleria" Margin="105,188,42,423" Text="Galeria"
-                           FontSize="24" Tapped="lblGaleria_Tapped"/>
+                           FontSize="24" Foreground="#533a2a" Tapped="lblGaleria_Tapped"/>
 
-                <Ellipse x:Name="ImagenMenu4" Margin="24,238,286,362" Height="40" Width="40">
+                <Ellipse x:Name="ImagenMenu4" Margin="24,238,286,362" Height="45" Width="45">
                     <Ellipse.Fill>
-                        <ImageBrush ImageSource="Assets/Menu2.jpg" Stretch="Fill" ></ImageBrush>
+                        <ImageBrush ImageSource="Assets/otras_bebidas.jpg" Stretch="Fill" ></ImageBrush>
                     </Ellipse.Fill>
                 </Ellipse>
 
                 <TextBlock x:Name="lblMenu" Margin="105,244,42,367" Text="Menu"
-                           FontSize="24" Tapped="lblMenu_Tapped"/>
+                           FontSize="24" Foreground="#533a2a" Tapped="lblMenu_Tapped"/>
 
             </Grid>
 
@@ -61,7 +61,7 @@
                 
                 <Image Width="200" Source="Assets/divina_cocoa_logo.png" Margin="100,-208,100,208"></Image>
 
-                <Ellipse x:Name="Imagen1" Margin="26,316,274,224" Width="100" Height="100" Stroke="Black">
+                <!--<Ellipse x:Name="Imagen1" Margin="26,316,274,224" Width="100" Height="100" Stroke="Black">
                     <Ellipse.Fill>
                         <ImageBrush Stretch="Fill" ImageSource="Assets/Postre1.jpg"></ImageBrush>
                     </Ellipse.Fill>
@@ -77,7 +77,7 @@
                     <Ellipse.Fill>
                         <ImageBrush Stretch="Fill" ImageSource="Assets/Postre3.jpg"></ImageBrush>
                     </Ellipse.Fill>
-                </Ellipse>
+                </Ellipse>-->
             </Grid>
         </Library:SlideView>
     </Grid>

@@ -24,6 +24,8 @@ namespace appDivinaCocoa
     /// </summary>
     public sealed partial class Galeria : Page
     {
+        string imgHost = "http://divinacocoa.com.mx/beta/";
+
         public Galeria()
         {
             this.InitializeComponent();
@@ -56,9 +58,18 @@ namespace appDivinaCocoa
             {
                 Imagen img = new Imagen();
                 img.url = obj.Results[i].url;
+                img.url = imgHost + img.url;
                 _lstImagen.Add(img);
             }
 
+            gvGaleria.ItemsSource = _lstImagen;
+            var a = true;
+        }
+
+        private void backButton_Click(object sender, RoutedEventArgs e)
+        {
+            Frame a = Window.Current.Content as Frame;
+            a.Navigate(typeof(MainPage), a);
         }
 
         public class ImageObject
