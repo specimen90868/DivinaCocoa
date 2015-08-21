@@ -6,13 +6,13 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    Background="#FFE0DCCF">
 
   
     <Grid>
-        <Grid.Background>
+        <!--<Grid.Background>
             <ImageBrush Stretch="Fill" ImageSource="Assets/shutterstock_299699753.jpg"/>
-        </Grid.Background>
+        </Grid.Background>-->
 
         <Hub x:Name="HubPrincipal">
             <Hub.HeaderTemplate>
@@ -27,32 +27,34 @@
                         <AppBarButton x:Name="backButton" Icon="Back" Margin="-30,-14,0,0" Click="backButton_Click" />
                         <TextBlock x:Name="pageTitle" Text="Menú" VerticalAlignment="Top"
                                    Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
-                                   IsHitTestVisible="false" TextWrapping="NoWrap" Foreground="#FFFBF9F9"/>
+                                   IsHitTestVisible="false" TextWrapping="NoWrap" Foreground="#FF533A2A"/>
                         <AppBarButton x:Name="nextButton" Icon="Next" Margin="15,-14,0,0" Grid.Column="2" Click="nextButton_Click" />
                     </Grid>
                 </DataTemplate>
             </Hub.HeaderTemplate>
 
-            <HubSection Width="400" Header="Cafe">
+            <HubSection Width="400" Background="#FFE0DCCF" Foreground="#ac8a53">
                 <DataTemplate>
                     <Grid>
                         <Grid.RowDefinitions>
                             <RowDefinition Height="*" />
                         </Grid.RowDefinitions>
-                        <GridView  x:Name="gvCafe" HorizontalAlignment="Left" Margin="-12,-23,0,-4.167" 
+                        <TextBlock FontSize="20">CAFÉ</TextBlock>
+                        <GridView  x:Name="gvCafe" HorizontalAlignment="Left" Margin="-12,27,0,-4.167" 
                                    VerticalAlignment="Top" Width="388" Height="538"
                                    SelectionMode="Single" ItemTemplate="{ StaticResource cafe }"/>
                     </Grid>
                 </DataTemplate>
             </HubSection>
 
-            <HubSection Width="400" Header="Otras bebidas">
+            <HubSection Width="400" Foreground="#429AA5">
                 <DataTemplate>
                     <Grid>
                         <Grid.RowDefinitions>
                             <RowDefinition Height="*" />
                         </Grid.RowDefinitions>
-                        <GridView  x:Name="gvOtrasBebidas" HorizontalAlignment="Left" Margin="-12,-23,0,-4.167" 
+                        <TextBlock FontSize="20">OTRAS BEBIDAS</TextBlock>
+                        <GridView  x:Name="gvOtrasBebidas" HorizontalAlignment="Left" Margin="-12,27,0,-4.167" 
                                    VerticalAlignment="Top" Width="388" Height="538"
                                    SelectionMode="Single" ItemTemplate="{ StaticResource otrasbebidas }"/>
 

@@ -1,7 +1,9 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net;
 using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
@@ -25,6 +27,7 @@ namespace appDivinaCocoa
         public Galeria()
         {
             this.InitializeComponent();
+            getGaleriaJson();
         }
 
         /// <summary>
@@ -34,6 +37,38 @@ namespace appDivinaCocoa
         /// Este parámetro se usa normalmente para configurar la página.</param>
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
+        }
+
+        async private void getGaleriaJson()
+        {
+            Uri ruta = new Uri("http://divinacocoa.com.mx/beta/api/gallery", UriKind.Absolute);
+            HttpWebRequest request = (HttpWebRequest)WebRequest.Create(ruta);
+            WebResponse response = await request.GetResponseAsync();
+            Stream stream = response.GetResponseStream();
+
+            string contenido = Comun.LecturaDatos(stream);
+            contenido = "{results: " + contenido + "}";
+
+            var obj = JsonConvert.DeserializeObject<ImageObject>(contenido);
+
+            List<Imagen> _lstImagen = new List<Imagen>();
+            for (int i = 0; i < obj.Results.Count; i++)
+            {
+                Imagen img = new Imagen();
+                img.url = obj.Results[i].url;
+                _lstImagen.Add(img);
+            }
+
+        }
+
+        public class ImageObject
+        {
+            public List<Imagen> Results { get; set; }
+        }
+
+        public class Imagen
+        {
+            public string url { get; set; }
         }
     }
 }
