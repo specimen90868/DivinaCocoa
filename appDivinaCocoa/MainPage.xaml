@@ -27,6 +27,7 @@
                         <ImageBrush ImageSource="Assets/chocolate_blanco.jpg" Stretch="Fill" ></ImageBrush>
                     </Ellipse.Fill>
                 </Ellipse>
+                
 
                 <TextBlock x:Name="lblLocalizame" Margin="105,74,42,537" Text="Localizame"
                            FontSize="24" Foreground="#533a2a" Tapped="lblLocalizame_Tapped"/>
