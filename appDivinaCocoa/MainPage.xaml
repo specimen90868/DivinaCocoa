@@ -11,6 +11,12 @@
     <Grid>
         <Library:SlideView SelectedIndex="1">
             <Grid Background="#FFF" Width="350">
+                <Image Width="70" Source="Assets/separador_concepto.jpg" Margin="100,-360,100,208" Tapped="Image_Tapped" RenderTransformOrigin="0.5,0.5">
+                    <Image.RenderTransform>
+                        <CompositeTransform Rotation="180"/>
+                    </Image.RenderTransform>
+                </Image>
+
                 <TextBlock x:Name="Titulo" Text="Divina Cocoa"
                            FontSize="24"
                            Margin="10,5,0,0"
@@ -52,14 +58,16 @@
                 <TextBlock x:Name="lblMenu" Margin="105,244,42,367" Text="Menu"
                            FontSize="24" Foreground="#533a2a" Tapped="lblMenu_Tapped"/>
 
+
+                <Image Width="70" Source="Assets/separador_concepto.jpg" Margin="100,400,100,208" Tapped="Image_Tapped"></Image>
             </Grid>
 
             <Grid>
                 <Grid.Background>
                     <ImageBrush ImageSource="Assets/shutterstock_299699753.jpg"/>
                 </Grid.Background>
-                
-                <Image Width="200" Source="Assets/divina_cocoa_logo.png" Margin="100,-208,100,208"></Image>
+
+                <Image Width="200" Source="Assets/divina_cocoa_logo.png" Margin="100,-208,100,208" Tapped="Image_Tapped"></Image>
 
                 <!--<Ellipse x:Name="Imagen1" Margin="26,316,274,224" Width="100" Height="100" Stroke="Black">
                     <Ellipse.Fill>
@@ -78,6 +86,10 @@
                         <ImageBrush Stretch="Fill" ImageSource="Assets/Postre3.jpg"></ImageBrush>
                     </Ellipse.Fill>
                 </Ellipse>-->
+
+
+
+
             </Grid>
         </Library:SlideView>
     </Grid>

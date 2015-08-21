@@ -82,5 +82,11 @@ namespace appDivinaCocoa
             Frame a = Window.Current.Content as Frame;
             a.Navigate(typeof(Menu), a);
         }
+
+        private void Image_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+            Frame a = Window.Current.Content as Frame;
+            a.Navigate(typeof(MainPage), a);
+        }
     }
 }
