@@ -113,6 +113,9 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\antojos.png" />
+    <Content Include="Assets\chocolatedemesa.jpg" />
+    <Content Include="Assets\divina_cocoa_logo.png" />
     <Content Include="Assets\Galeria.png" />
     <Content Include="Assets\llamame.png" />
     <Content Include="Assets\localizame.png" />
@@ -129,6 +132,7 @@
     <Content Include="Assets\marcador.png" />
     <Content Include="Assets\Menu.png" />
     <Content Include="Assets\Menu2.jpg" />
+    <Content Include="Assets\otras_bebidas.jpg" />
     <Content Include="Assets\Postre1.jpg" />
     <Content Include="Assets\Postre2.jpg" />
     <Content Include="Assets\Postre3.jpg" />

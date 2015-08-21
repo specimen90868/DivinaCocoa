@@ -28,6 +28,12 @@
     <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\packages\SlideView.1.4.2\lib\wpa81\SlideView.Library.dll">
       <PackagePath>SlideView.Library.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\antojos.png">
+      <PackagePath>Assets\antojos.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\divina_cocoa_logo.png">
+      <PackagePath>Assets\divina_cocoa_logo.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\Galeria.png">
       <PackagePath>Assets\Galeria.png</PackagePath>
     </AppxPackagedFile>
@@ -96,6 +102,9 @@
     <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\slideview.library\assets\menu.png">
       <PackagePath>SlideView.Library\Assets\menu.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\chocolatedemesa.jpg">
+      <PackagePath>Assets\chocolatedemesa.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\logo-mobiles-480.jpg">
       <PackagePath>Assets\logo-mobiles-480.jpg</PackagePath>
     </AppxPackagedFile>
@@ -105,6 +114,9 @@
     <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\Menu2.jpg">
       <PackagePath>Assets\Menu2.jpg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\otras_bebidas.jpg">
+      <PackagePath>Assets\otras_bebidas.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\Postre1.jpg">
       <PackagePath>Assets\Postre1.jpg</PackagePath>
     </AppxPackagedFile>
@@ -113,6 +125,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\Postre3.jpg">
       <PackagePath>Assets\Postre3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\separador_concepto.jpg">
+      <PackagePath>Assets\separador_concepto.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\admin\Documents\GitHub\DivinaCocoa\appDivinaCocoa\Assets\shutterstock_299699753.jpg">
       <PackagePath>Assets\shutterstock_299699753.jpg</PackagePath>

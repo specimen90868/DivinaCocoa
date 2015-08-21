@@ -6,17 +6,17 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    xmlns:data="using:appDivinaCocoa.Data">
+    xmlns:data="using:appDivinaCocoa.Data" Background="#FFE0DCCF">
 
     <!--<Page.Resources>
         <DataTemplate x:Key="HubSectionHeaderTemplate">
             <TextBlock Margin="0,0,0,-9.5" Text="{Binding}"/>
         </DataTemplate>
     </Page.Resources>-->
-    <Page.Background>
+    <!---<Page.Background>
         <ImageBrush Stretch="Fill" ImageSource="Assets/shutterstock_299699753.jpg"/>
-    </Page.Background>
-
+    </Page.Background>-->
+  
     <Grid>
         <Hub x:Name="HubPrincipal">
             <Hub.HeaderTemplate>
@@ -31,34 +31,42 @@
                         <AppBarButton x:ConnectionId='1' x:Name="backButton" Icon="Back" Margin="-30,-14,0,0"                          />
                         <TextBlock x:Name="pageTitle" Text="Menú" VerticalAlignment="Top"
                                    Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
-                                   IsHitTestVisible="false" TextWrapping="NoWrap" Foreground="#FFFBF9F9"/>
+                                   IsHitTestVisible="false" TextWrapping="NoWrap" Foreground="#FF533A2A"/>
                         <AppBarButton x:ConnectionId='2' x:Name="nextButton" Icon="Next" Margin="15,-14,0,0" Grid.Column="2"                          />
                     </Grid>
+                    
                 </DataTemplate>
+
             </Hub.HeaderTemplate>
 
             <!-- Hub sections -->
-            <HubSection Width="400" Header="Chocolate de Mesa">
+            <HubSection Width="400" FontSize="20" Foreground="#FF3C5C77">
                 <DataTemplate>
                     <Grid>
+                        <Grid.Background>
+                            <ImageBrush Stretch="Fill"/>
+                        </Grid.Background>
+
                         <Grid.RowDefinitions>
                             <RowDefinition Height="*" />
                         </Grid.RowDefinitions>
-                        <GridView  x:Name="gvChocolateMesa" HorizontalAlignment="Left" Margin="-12,-23,0,-4.167" 
+                        <TextBlock FontSize="20">CHOCOLATE DE MESA</TextBlock>
+                        <GridView  x:Name="gvChocolateMesa" HorizontalAlignment="Left" Margin="-12,27,0,-4.167" 
                                    VerticalAlignment="Top" Width="388" Height="538"
                                    SelectionMode="Single" ItemTemplate="{ StaticResource chocolatemesa }"/>
 
                     </Grid>
                 </DataTemplate>
-            </HubSection>
+            </HubSection> 
 
-            <HubSection Width="400" Header="Chocolate Blanco">
+            <HubSection Width="400" FontSize="20" Foreground="#97004D">
                 <DataTemplate>
                     <Grid>
                         <Grid.RowDefinitions>
                             <RowDefinition Height="*" />
                         </Grid.RowDefinitions>
-                        <GridView  x:Name="gvChocolateBlanco" HorizontalAlignment="Left" Margin="-12,-23,0,-4.167" 
+                        <TextBlock FontSize="20">CHOCOLATE BLANCO</TextBlock>
+                        <GridView  x:Name="gvChocolateBlanco" HorizontalAlignment="Left" Margin="-12,27,0,-4.167" 
                                    VerticalAlignment="Top" Width="388" Height="538"
                                    SelectionMode="Single" ItemTemplate="{ StaticResource chocolateblanco }"/>
                     </Grid>

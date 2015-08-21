@@ -15,6 +15,8 @@ using Windows.UI.Xaml.Navigation;
 
 using SlideView.Library;
 using Windows.Phone.UI.Input;
+using Windows.ApplicationModel.Contacts;
+using Windows.UI.Popups;
 
 // La plantilla de elemento Página en blanco está documentada en http://go.microsoft.com/fwlink/?LinkId=391641
 
@@ -87,6 +89,44 @@ namespace appDivinaCocoa
         {
             Frame a = Window.Current.Content as Frame;
             a.Navigate(typeof(MainPage), a);
+        }
+
+        private void lblCorreo_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+            CrearCorreo();
+        }
+
+        private async void CrearCorreo()
+        {
+            var Contactos = new Windows.ApplicationModel.Contacts.ContactPicker();
+            Contactos.DesiredFieldsWithContactFieldType.Add(ContactFieldType.Email);
+            Contact Direcciones = await Contactos.PickContactAsync();
+            if (Direcciones != null)
+            {
+                this.DatosdelContactoCorreo(Direcciones.Emails);
+            }
+            else
+            {
+                var dialog = new MessageDialog("Usuario no Encontrado");
+                await dialog.ShowAsync();
+            }
+        }
+
+        private async void DatosdelContactoCorreo<T>(IList<T> campos)
+        {
+            if (campos[0].GetType() == typeof(ContactEmail))
+            {
+                foreach (ContactEmail Email in campos as IList<ContactEmail>)
+                {
+                    var MensajeCorreo = new Windows.ApplicationModel.Email.EmailMessage();
+                    MensajeCorreo.Body = "";
+                    MensajeCorreo.Subject = "Saludos Divina Cocoa!!!";
+                    var ContactoCorreo = new Windows.ApplicationModel.Email.EmailRecipient("fabricio.vilchis@it-esupport.com.mx");
+                    MensajeCorreo.To.Add(ContactoCorreo);
+                    await Windows.ApplicationModel.Email.EmailManager.ShowComposeNewEmailAsync(MensajeCorreo);
+                    break;
+                }
+            }
         }
     }
 }

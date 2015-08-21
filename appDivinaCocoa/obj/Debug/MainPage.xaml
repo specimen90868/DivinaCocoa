@@ -10,7 +10,13 @@
 
     <Grid>
         <Library:SlideView SelectedIndex="1">
-            <Grid Background="#FF1E1E1E" Width="350">
+            <Grid Background="#FFF" Width="350">
+                <Image x:ConnectionId='2' Width="70" Source="Assets/separador_concepto.jpg" Margin="100,-360,100,208"                       RenderTransformOrigin="0.5,0.5">
+                    <Image.RenderTransform>
+                        <CompositeTransform Rotation="180"/>
+                    </Image.RenderTransform>
+                </Image>
+
                 <TextBlock x:Name="Titulo" Text="Divina Cocoa"
                            FontSize="24"
                            Margin="10,5,0,0"
@@ -18,40 +24,52 @@
 
                 <Ellipse x:Name="ImagenMenu1" Margin="22,67,288,533" Height="40" Width="40">
                     <Ellipse.Fill>
-                        <ImageBrush ImageSource="Assets/localizame.png" Stretch="Fill" ></ImageBrush>
+                        <ImageBrush ImageSource="Assets\chocolate_blanco.jpg" Stretch="Fill" ></ImageBrush>
                     </Ellipse.Fill>
                 </Ellipse>
+                
 
-                <TextBlock x:ConnectionId='1' x:Name="lblLocalizame" Margin="105,74,42,537" Text="Localizame"
-                           FontSize="24"                              />
+                <TextBlock x:ConnectionId='3' x:Name="lblLocalizame" Margin="105,74,42,537" Text="Localizame"
+                           FontSize="24" Foreground="#533a2a"                              />
 
                 <Ellipse x:Name="ImagenMenu2" Margin="24,124,286,476" Height="40" Width="40">
                     <Ellipse.Fill>
-                        <ImageBrush ImageSource="Assets/llamame.png" Stretch="Fill" ></ImageBrush>
+                        <ImageBrush ImageSource="Assets\chocolatedemesa.jpg" Stretch="Fill" ></ImageBrush>
                     </Ellipse.Fill>
                 </Ellipse>
 
-                <TextBlock x:ConnectionId='2' x:Name="lblLlamame" Margin="105,131,42,480" Text="Llamame"
-                           FontSize="24"                           />
+                <TextBlock x:ConnectionId='4' x:Name="lblLlamame" Margin="105,131,42,480" Text="Llamame"
+                           FontSize="24" Foreground="#533a2a"                           />
 
                 <Ellipse x:Name="ImagenMenu3" Margin="24,181,286,419" Height="40" Width="40">
                     <Ellipse.Fill>
-                        <ImageBrush ImageSource="Assets/Galeria.png" Stretch="Fill" ></ImageBrush>
+                        <ImageBrush ImageSource="Assets\cubiertoschocolate.jpg" Stretch="Fill" ></ImageBrush>
                     </Ellipse.Fill>
                 </Ellipse>
 
-                <TextBlock x:ConnectionId='3' x:Name="lblGaleria" Margin="105,188,42,423" Text="Galeria"
-                           FontSize="24"                           />
+                <TextBlock x:ConnectionId='5' x:Name="lblGaleria" Margin="105,188,42,423" Text="Galeria"
+                           FontSize="24" Foreground="#533a2a"                           />
 
-                <Ellipse x:Name="ImagenMenu4" Margin="24,238,286,362" Height="40" Width="40">
+                <Ellipse x:Name="ImagenMenu4" Margin="24,238,286,362" Height="45" Width="45">
                     <Ellipse.Fill>
-                        <ImageBrush ImageSource="Assets/Menu2.jpg" Stretch="Fill" ></ImageBrush>
+                        <ImageBrush ImageSource="Assets\otras_bebidas.jpg" Stretch="Fill" ></ImageBrush>
                     </Ellipse.Fill>
                 </Ellipse>
 
-                <TextBlock x:ConnectionId='4' x:Name="lblMenu" Margin="105,244,42,367" Text="Menu"
-                           FontSize="24"                        />
+                <TextBlock x:ConnectionId='6' x:Name="lblMenu" Margin="105,244,42,367" Text="Menu"
+                           FontSize="24" Foreground="#533a2a"                        />
 
+                <Ellipse x:Name="ImagenMenu5" Margin="24,291,281,304" Height="45" Width="45">
+                    <Ellipse.Fill>
+                        <ImageBrush ImageSource="Assets\antojos.png" Stretch="Fill" ></ImageBrush>
+                    </Ellipse.Fill>
+                </Ellipse>
+
+                <TextBlock x:ConnectionId='7' x:Name="lblCorreo" Margin="105,298,42,313" Text="Mandame un mail"
+                           FontSize="24" Foreground="#533a2a"                          />
+
+
+                <Image x:ConnectionId='8' Width="70" Source="Assets/separador_concepto.jpg" Margin="100,400,100,208"                      ></Image>
             </Grid>
 
             <Grid>
@@ -59,7 +77,9 @@
                     <ImageBrush ImageSource="Assets/shutterstock_299699753.jpg"/>
                 </Grid.Background>
 
-                <Ellipse x:Name="Imagen1" Margin="26,316,274,224" Width="100" Height="100" Stroke="Black">
+                <Image x:ConnectionId='1' Width="200" Source="Assets/divina_cocoa_logo.png" Margin="100,-208,100,208"                      ></Image>
+
+                <!--<Ellipse x:Name="Imagen1" Margin="26,316,274,224" Width="100" Height="100" Stroke="Black">
                     <Ellipse.Fill>
                         <ImageBrush Stretch="Fill" ImageSource="Assets/Postre1.jpg"></ImageBrush>
                     </Ellipse.Fill>
@@ -75,7 +95,11 @@
                     <Ellipse.Fill>
                         <ImageBrush Stretch="Fill" ImageSource="Assets/Postre3.jpg"></ImageBrush>
                     </Ellipse.Fill>
-                </Ellipse>
+                </Ellipse>-->
+
+
+
+
             </Grid>
         </Library:SlideView>
     </Grid>

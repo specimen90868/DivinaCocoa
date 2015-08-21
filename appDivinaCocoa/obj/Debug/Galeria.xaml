@@ -6,9 +6,17 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    Background="#FFE0DCCF">
 
     <Grid>
+        <AppBarButton x:ConnectionId='1' x:Name="backButton" Icon="Back" Margin="-5,7,0,0"                          Height="62" Width="64" />
+        <TextBlock x:Name="pageTitle" Text="Galería" VerticalAlignment="Top"
+                                   Style="{StaticResource HeaderTextBlockStyle}" 
+                                   IsHitTestVisible="false" TextWrapping="NoWrap" Foreground="#FF533A2A" Margin="93,0,118,0"/>
+
+        <GridView  x:Name="gvGaleria" HorizontalAlignment="Left" Margin="0,93,0,0" 
+                                   VerticalAlignment="Top" Width="400" Height="547"
+                                   SelectionMode="Single" ItemTemplate="{ StaticResource galeria }"/>
 
     </Grid>
 </Page>

@@ -6,12 +6,12 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    Background="#FFE0DCCF">
 
     <Grid>
-        <Grid.Background>
+        <!--<Grid.Background>
             <ImageBrush Stretch="Fill" ImageSource="Assets/shutterstock_299699753.jpg"/>
-        </Grid.Background>
+        </Grid.Background>-->
 
         <Hub x:Name="HubPrincipal">
             <Hub.HeaderTemplate>
@@ -26,19 +26,20 @@
                         <AppBarButton x:ConnectionId='1' x:Name="backButton" Icon="Back" Margin="-30,-14,0,0"                          />
                         <TextBlock x:Name="pageTitle" Text="Menú" VerticalAlignment="Top"
                                    Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
-                                   IsHitTestVisible="false" TextWrapping="NoWrap" Foreground="#FFFBF9F9"/>
+                                   IsHitTestVisible="false" TextWrapping="NoWrap" Foreground="#FF533A2A"/>
                         <AppBarButton x:ConnectionId='2' x:Name="nextButton" Icon="Next" Margin="15,-14,0,0" Grid.Column="2"                          />
                     </Grid>
                 </DataTemplate>
             </Hub.HeaderTemplate>
 
-            <HubSection Width="400" Header="Para desayunar">
+            <HubSection Width="400" FontSize="20" Foreground="#3c5c77">
                 <DataTemplate>
                     <Grid>
                         <Grid.RowDefinitions>
                             <RowDefinition Height="*" />
                         </Grid.RowDefinitions>
-                        <GridView  x:Name="gvParaDesayunar" HorizontalAlignment="Left" Margin="-12,-23,0,-4.167" 
+                        <TextBlock FontSize="20">PARA DESAYUNAR</TextBlock>
+                        <GridView  x:Name="gvParaDesayunar" HorizontalAlignment="Left" Margin="-12,27,0,-4.167" 
                                    VerticalAlignment="Top" Width="388" Height="538"
                                    SelectionMode="Single" ItemTemplate="{ StaticResource paradesayunar }"/>
 
@@ -46,13 +47,14 @@
                 </DataTemplate>
             </HubSection>
 
-            <HubSection Width="400" Header="Antojos dulces">
+            <HubSection Width="400" Foreground="#E9AE44" FontSize="20">
                 <DataTemplate>
                     <Grid>
                         <Grid.RowDefinitions>
                             <RowDefinition Height="*" />
                         </Grid.RowDefinitions>
-                        <GridView  x:Name="gvAntojosDulces" HorizontalAlignment="Left" Margin="-12,-23,0,-4.167" 
+                        <TextBlock FontSize="20">ANTOJOS DULCES</TextBlock>
+                        <GridView  x:Name="gvAntojosDulces" HorizontalAlignment="Left" Margin="-12,27,0,-4.167" 
                                    VerticalAlignment="Top" Width="388" Height="538"
                                    SelectionMode="Single" ItemTemplate="{ StaticResource antojosdulces }"/>
 

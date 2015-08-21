@@ -24,7 +24,7 @@
 
                 <Ellipse x:Name="ImagenMenu1" Margin="22,67,288,533" Height="40" Width="40">
                     <Ellipse.Fill>
-                        <ImageBrush ImageSource="Assets/chocolate_blanco.jpg" Stretch="Fill" ></ImageBrush>
+                        <ImageBrush ImageSource="Assets\chocolate_blanco.jpg" Stretch="Fill" ></ImageBrush>
                     </Ellipse.Fill>
                 </Ellipse>
                 
@@ -34,7 +34,7 @@
 
                 <Ellipse x:Name="ImagenMenu2" Margin="24,124,286,476" Height="40" Width="40">
                     <Ellipse.Fill>
-                        <ImageBrush ImageSource="Assets/chocolatedemesa.jpg" Stretch="Fill" ></ImageBrush>
+                        <ImageBrush ImageSource="Assets\chocolatedemesa.jpg" Stretch="Fill" ></ImageBrush>
                     </Ellipse.Fill>
                 </Ellipse>
 
@@ -43,7 +43,7 @@
 
                 <Ellipse x:Name="ImagenMenu3" Margin="24,181,286,419" Height="40" Width="40">
                     <Ellipse.Fill>
-                        <ImageBrush ImageSource="Assets/cubiertoschocolate.jpg" Stretch="Fill" ></ImageBrush>
+                        <ImageBrush ImageSource="Assets\cubiertoschocolate.jpg" Stretch="Fill" ></ImageBrush>
                     </Ellipse.Fill>
                 </Ellipse>
 
@@ -52,12 +52,21 @@
 
                 <Ellipse x:Name="ImagenMenu4" Margin="24,238,286,362" Height="45" Width="45">
                     <Ellipse.Fill>
-                        <ImageBrush ImageSource="Assets/otras_bebidas.jpg" Stretch="Fill" ></ImageBrush>
+                        <ImageBrush ImageSource="Assets\otras_bebidas.jpg" Stretch="Fill" ></ImageBrush>
                     </Ellipse.Fill>
                 </Ellipse>
 
                 <TextBlock x:Name="lblMenu" Margin="105,244,42,367" Text="Menu"
                            FontSize="24" Foreground="#533a2a" Tapped="lblMenu_Tapped"/>
+
+                <Ellipse x:Name="ImagenMenu5" Margin="24,291,281,304" Height="45" Width="45">
+                    <Ellipse.Fill>
+                        <ImageBrush ImageSource="Assets\antojos.png" Stretch="Fill" ></ImageBrush>
+                    </Ellipse.Fill>
+                </Ellipse>
+
+                <TextBlock x:Name="lblCorreo" Margin="105,298,42,313" Text="Mandame un mail"
+                           FontSize="24" Foreground="#533a2a" Tapped="lblCorreo_Tapped"/>
 
 
                 <Image Width="70" Source="Assets/separador_concepto.jpg" Margin="100,400,100,208" Tapped="Image_Tapped"></Image>
