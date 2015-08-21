@@ -47,7 +47,7 @@
                     <TextBlock Margin="5,5,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
                                FontWeight="Light" Text="{Binding title}"></TextBlock>
                     <TextBlock Margin="5,25,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
-                               FontWeight="Light" Text="{Binding description}"></TextBlock>
+                               FontWeight="Light" Foreground="#FF533A2A" Text="{Binding description}"></TextBlock>
                 </Grid>
             </DataTemplate>
 
@@ -56,7 +56,7 @@
                     <TextBlock Margin="5,5,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
                                FontWeight="Light" Text="{Binding title}"></TextBlock>
                     <TextBlock Margin="5,25,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
-                               FontWeight="Light" Text="{Binding description}"></TextBlock>
+                               FontWeight="Light" Foreground="#FF533A2A" Text="{Binding description}"></TextBlock>
                 </Grid>
             </DataTemplate>
 
@@ -65,7 +65,7 @@
                     <TextBlock Margin="5,5,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
                                FontWeight="Light" Text="{Binding title}"></TextBlock>
                     <TextBlock Margin="5,25,5,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI" 
-                               FontWeight="Light" Text="{Binding description}"></TextBlock>
+                               FontWeight="Light" Foreground="#FF533A2A" Text="{Binding description}"></TextBlock>
                 </Grid>
             </DataTemplate>
         </ResourceDictionary>

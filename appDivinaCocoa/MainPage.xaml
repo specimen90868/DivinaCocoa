@@ -58,6 +58,8 @@
                 <Grid.Background>
                     <ImageBrush ImageSource="Assets/shutterstock_299699753.jpg"/>
                 </Grid.Background>
+                
+                <Image Width="200" Source="Assets/divina_cocoa_logo.png" Margin="100,-208,100,208"></Image>
 
                 <Ellipse x:Name="Imagen1" Margin="26,316,274,224" Width="100" Height="100" Stroke="Black">
                     <Ellipse.Fill>
